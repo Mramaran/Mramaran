@@ -34,10 +34,6 @@ Currently interning at **ChainAim** — building decentralized apps with zero-kn
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mramaran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mramaran&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mramaran&theme=tokyonight&hide_border=true" />
