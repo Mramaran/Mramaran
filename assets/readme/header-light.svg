@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Thirumaran S L — AI/ML developer</title>
+<desc id="desc">Thirumaran S L fixes bugs in the ML frameworks he uses. An exploded ML stack shows merged pull requests pinned to their layers: vLLM in serving, TensorFlow in graph capture, Brevitas in export and quantization, PyTorch in operators, above the silicon layer.</desc>
+<rect width="1200" height="420" rx="22" fill="#f2efe8"/>
+<g id="title-block" transform="translate(64 0)">
+<rect x="0" y="86" width="12" height="12" fill="#c2410c"/>
+<text x="24" y="98" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#c2410c">ai/ml developer · coimbatore</text>
+<text x="-3" y="172" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="66" font-weight="700" fill="#16140f" letter-spacing="-1.5">Thirumaran S L</text>
+<text x="0" y="226" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" fill="#16140f">I fix bugs in the ML frameworks I use.</text>
+<text x="0" y="262" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" fill="#4a463d">A few of those fixes now ship in</text>
+<text x="0" y="298" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" fill="#4a463d">PyTorch, vLLM and TensorFlow.</text>
+<line x1="0" y1="338" x2="520" y2="338" stroke="#cbc4b6" stroke-width="1.5"/>
+<text x="0" y="370" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#4a463d"><tspan fill="#c2410c">7</tspan> merged upstream PRs  ·  intern @ ChainAim</text>
+</g>
+<g id="ml-stack">
+<line x1="1010" y1="78" x2="1010" y2="342" stroke="#c2410c" stroke-width="1.5" stroke-dasharray="3 6" opacity="0.7"/>
+<path d="M892 349 L1010 319 L1128 349 L1010 379 Z" fill="#cbc4b6"/>
+<path d="M892 342 L1010 312 L1128 342 L1010 372 Z" fill="#e8e4da" stroke="#cbc4b6" stroke-width="1.6"/>
+<path d="M964 342 L1010 330 L1056 342 L1010 354 Z" fill="none" stroke="#c2410c" stroke-width="1.4" opacity="0.8"/>
+<path d="M988 342 L1010 336 L1032 342 L1010 348 Z" fill="#c2410c" opacity="0.85"/>
+<path d="M892 283 L1010 253 L1128 283 L1010 313 Z" fill="#cbc4b6"/>
+<path d="M892 276 L1010 246 L1128 276 L1010 306 Z" fill="#f6e3d6" stroke="#c2410c" stroke-width="1.6"/>
+<circle cx="1010" cy="276" r="4.5" fill="#c2410c"/>
+<path d="M892 217 L1010 187 L1128 217 L1010 247 Z" fill="#cbc4b6"/>
+<path d="M892 210 L1010 180 L1128 210 L1010 240 Z" fill="#f6e3d6" stroke="#c2410c" stroke-width="1.6"/>
+<circle cx="1010" cy="210" r="4.5" fill="#c2410c"/>
+<path d="M892 151 L1010 121 L1128 151 L1010 181 Z" fill="#cbc4b6"/>
+<path d="M892 144 L1010 114 L1128 144 L1010 174 Z" fill="#f6e3d6" stroke="#c2410c" stroke-width="1.6"/>
+<circle cx="1010" cy="144" r="4.5" fill="#c2410c"/>
+<path d="M892 85 L1010 55 L1128 85 L1010 115 Z" fill="#cbc4b6"/>
+<path d="M892 78 L1010 48 L1128 78 L1010 108 Z" fill="#f6e3d6" stroke="#c2410c" stroke-width="1.6"/>
+<circle cx="1010" cy="78" r="4.5" fill="#c2410c"/>
+<line x1="878" y1="78" x2="896" y2="78" stroke="#cbc4b6" stroke-width="1.2"/>
+<text x="870" y="73" text-anchor="end" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#4a463d">serving &amp; runtime</text>
+<text x="870" y="98" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="600" fill="#c2410c">vLLM #63138</text>
+<line x1="878" y1="144" x2="896" y2="144" stroke="#cbc4b6" stroke-width="1.2"/>
+<text x="870" y="139" text-anchor="end" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#4a463d">graph capture &amp; compilers</text>
+<text x="870" y="164" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="600" fill="#c2410c">TensorFlow #122101</text>
+<line x1="878" y1="210" x2="896" y2="210" stroke="#cbc4b6" stroke-width="1.2"/>
+<text x="870" y="205" text-anchor="end" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#4a463d">export &amp; quantization</text>
+<text x="870" y="230" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="600" fill="#c2410c">Brevitas #1647</text>
+<line x1="878" y1="276" x2="896" y2="276" stroke="#cbc4b6" stroke-width="1.2"/>
+<text x="870" y="271" text-anchor="end" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#4a463d">operators · ATen / C++</text>
+<text x="870" y="296" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="600" fill="#c2410c">PyTorch #204910</text>
+<line x1="878" y1="342" x2="896" y2="342" stroke="#cbc4b6" stroke-width="1.2"/>
+<text x="870" y="348" text-anchor="end" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#4a463d">silicon</text>
+</g>
+</svg>
