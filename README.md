@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/readme/header-light.svg">
-  <img src="./assets/readme/header-dark.svg" width="100%" alt="Thirumaran S L, AI/ML developer. I fix bugs in the ML frameworks I use; merged fixes in vLLM, TensorFlow, Brevitas and PyTorch, shown on the layers of an ML stack.">
+  <img src="./assets/readme/header-dark.svg" width="100%" alt="Thirumaran S L, AI/ML developer. I fix bugs in the ML frameworks I use. A terminal lists seven merged upstream commits in PyTorch, vLLM, TensorFlow, Brevitas, Aider and Quest.">
 </picture>
 
 <p align="center">
