@@ -64,7 +64,7 @@ def render(t):
     a(f'<text x="0" y="298" font-family="{SANS}" font-size="25" fill="{t["muted"]}">PyTorch, vLLM and TensorFlow.</text>')
     a(f'<line x1="0" y1="338" x2="480" y2="338" stroke="{t["edge"]}" stroke-width="1.5"/>')
     a(f'<text x="0" y="370" font-family="{MONO}" font-size="19" fill="{t["muted"]}">'
-      f'<tspan fill="{t["accent"]}">7</tspan> merged upstream PRs  ·  intern @ ChainAim</text>')
+      f'<tspan fill="{t["accent"]}">7</tspan> merged PRs across 6 upstream repos</text>')
     a('</g>')
 
     a(f'<g id="terminal" transform="translate({TX} {TY})">')

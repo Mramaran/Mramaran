@@ -10,7 +10,7 @@
 <text x="0" y="262" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" fill="#a7acb4">A few of those fixes now ship in</text>
 <text x="0" y="298" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" fill="#a7acb4">PyTorch, vLLM and TensorFlow.</text>
 <line x1="0" y1="338" x2="480" y2="338" stroke="#2b2f36" stroke-width="1.5"/>
-<text x="0" y="370" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#a7acb4"><tspan fill="#ffb020">7</tspan> merged upstream PRs  ·  intern @ ChainAim</text>
+<text x="0" y="370" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#a7acb4"><tspan fill="#ffb020">7</tspan> merged PRs across 6 upstream repos</text>
 </g>
 <g id="terminal" transform="translate(616 34)">
 <rect width="540" height="352" rx="14" fill="#111317" stroke="#2b2f36" stroke-width="1.5"/>

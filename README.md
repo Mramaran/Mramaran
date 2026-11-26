@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://mrmaran.me"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=20&duration=2800&pause=900&color=FFB020&center=true&vCenter=true&width=620&lines=the+layer+under+the+model;PyTorch+%C2%B7+vLLM+%C2%B7+TensorFlow+%C2%B7+Brevitas;zero-knowledge+tooling+%40+ChainAim" alt="the layer under the model · PyTorch · vLLM · TensorFlow · Brevitas · zero-knowledge tooling at ChainAim"></a>
+  <a href="https://mrmaran.me"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=20&duration=2800&pause=900&color=FFB020&center=true&vCenter=true&width=620&lines=the+layer+under+the+model;PyTorch+%C2%B7+vLLM+%C2%B7+TensorFlow+%C2%B7+Brevitas" alt="the layer under the model · PyTorch · vLLM · TensorFlow · Brevitas"></a>
 </p>
 
 <p align="center">
@@ -25,10 +25,6 @@
 | [**Xilinx/brevitas#1647**](https://github.com/Xilinx/brevitas/pull/1647) | Float LSTM ONNX export with dynamo, which used to write an empty graph |
 
 <sub>+3 more (PyTorch, Aider, Electric Capital Quest) → [mrmaran.me/open-source](https://mrmaran.me/open-source)</sub>
-
-### Now
-
-Intern developer at **ChainAim**, building zero-knowledge tooling (ZK Pret, Actus) on Mina.
 
 ### Built
 
